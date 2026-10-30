@@ -64,5 +64,117 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-brightsec-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://brightsec.com/
+Bright Security offers an agentic application security platform that uses AI to automatically discover, test, and remediate vulnerabilities in web applications, APIs, and LLM features. The solution provides dynamic application security testing (DAST) with minimal false positives, supports various authentication methods, integrates with CI/CD pipelines, and offers both SaaS and private‑cloud deployment options for enterprises seeking comprehensive, automated security testing.
+
+**Areas:** Security · Application Security · DAST · AI · API Testing
+
+## brightsec-com on APIs.io
+
+Everything profiled for brightsec-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/brightsec-com/](https://apis.io/providers/brightsec-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [brightsec-com API](https://apis.io/apis/brightsec-com/brightsec-com-api/) — brightsec-com API as documented publicly: 13 operations. Contract generated from the documentation by API Evangelist (2026-10-29); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetApiV1ProjectIssuesProjectissueidResponse](https://apis.io/schemas/brightsec-com/brightsec-com-get-api-v1-project-issues-projectissueid-response/)
+- [GetApiV2ProjectsProjectidEntryPointsSummaryResponse](https://apis.io/schemas/brightsec-com/brightsec-com-get-api-v2-projects-projectid-entry-points-summary-response/)
+- [GetApiV2ProjectsProjectidIssuesResponse](https://apis.io/schemas/brightsec-com/brightsec-com-get-api-v2-projects-projectid-issues-response/)
+- [GetApiV2ProjectsProjectidIssuesSummaryResponse](https://apis.io/schemas/brightsec-com/brightsec-com-get-api-v2-projects-projectid-issues-summary-response/)
+- [GetApiV2ProjectsResponse](https://apis.io/schemas/brightsec-com/brightsec-com-get-api-v2-projects-response/)
+- [PostApiV1ScansRequest](https://apis.io/schemas/brightsec-com/brightsec-com-post-api-v1-scans-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Brightsec Com Context](https://apis.io/jsonld/brightsec-com/brightsec-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [brightsec-com API Rules](https://apis.io/rules/brightsec-com/brightsec-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Brightsec Com Domain Security](https://apis.io/security/brightsec-com/brightsec-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://brightsec.com/)
+- [Documentation](https://docs.brightsec.com/)
+- [Getting started](https://docs.brightsec.com/docs/quickstart.md)
+- [Sign up](https://app.brightsec.com/login)
+- [Support](https://docs.brightsec.com/docs/support.md)
+- [Changelog](https://docs.brightsec.com/changelog)
+- [Blog](https://brightsec.com/blog/best-enterprise-dast-tools/)
+- [Trust centre](https://trust.brightsec.com/)
+- [Terms of service](https://brightsec.com/terms-of-service/)
+- [GitHub](https://github.com/brightsec)
+
+## API Evangelist rating
+
+**Kin Score 48.2** — developing · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 53.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 31.6 |
+
+**Agent readiness 23.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/brightsec-com/](https://apis.io/providers/brightsec-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for brightsec-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/brightsec-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
